@@ -7,4 +7,5 @@ private String gender;
 private String phoneNumber;
 private String membershipPlan;
 
-}
+public Member {
+    
